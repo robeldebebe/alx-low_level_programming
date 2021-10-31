@@ -1,2 +1,1 @@
-#h
-gcc $CFILE -E -o c
+hello world
